@@ -1,0 +1,9 @@
+D:\vadymkon\Проги\TRY\DownloadSMTHNK\bin\Debug\DownloadSMTHNK.exe.config
+D:\vadymkon\Проги\TRY\DownloadSMTHNK\bin\Debug\DownloadSMTHNK.exe
+D:\vadymkon\Проги\TRY\DownloadSMTHNK\bin\Debug\DownloadSMTHNK.pdb
+D:\vadymkon\Проги\TRY\DownloadSMTHNK\obj\Debug\DownloadSMTHNK.Form1.resources
+D:\vadymkon\Проги\TRY\DownloadSMTHNK\obj\Debug\DownloadSMTHNK.Properties.Resources.resources
+D:\vadymkon\Проги\TRY\DownloadSMTHNK\obj\Debug\DownloadSMTHNK.csproj.GenerateResource.cache
+D:\vadymkon\Проги\TRY\DownloadSMTHNK\obj\Debug\DownloadSMTHNK.csproj.CoreCompileInputs.cache
+D:\vadymkon\Проги\TRY\DownloadSMTHNK\obj\Debug\DownloadSMTHNK.exe
+D:\vadymkon\Проги\TRY\DownloadSMTHNK\obj\Debug\DownloadSMTHNK.pdb
